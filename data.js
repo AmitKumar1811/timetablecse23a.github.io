@@ -21,8 +21,8 @@ Tuesday: ['https://teams.microsoft.com/l/meetup-join/19%3a1-n4V-ossNFTGJnPGSgqUG
     
 
 Wednesday: ['',
- 'MODELING A',
- 'MODELING A2', 
+ 'https://teams.microsoft.com/l/meetup-join/19%3acqLpK8GgLoUBugJ7trKv8yOtbroGnlH08N_jtADikeQ1%40thread.tacv2/1660107710899?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22ffd3ca68-19da-4754-9361-937d3078fab1%22%7d',
+ 'https://teams.microsoft.com/l/meetup-join/19%3acqLpK8GgLoUBugJ7trKv8yOtbroGnlH08N_jtADikeQ1%40thread.tacv2/1660108035899?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22ffd3ca68-19da-4754-9361-937d3078fab1%22%7d', 
 'https://teams.microsoft.com/l/meetup-join/19%3ayN2B0IPdaTPDx-jbVqA58wgzTq8SHqT1D0jbqOePiPI1%40thread.tacv2/1659355016760?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d',
  '',
  'https://teams.microsoft.com/l/meetup-join/19%3adTczFquD_IsfyoHq13JmbQd3Bud8dBMO8K8EqR5wYyg1%40thread.tacv2/1659433461860?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%220c2a3645-25fb-43b6-9b0d-3d1e0f235f51%22%7d',
@@ -60,7 +60,7 @@ Saturday: [],
 subjects = {
     'Monday': ['', 'WIRELESS AND MOBILE COMMUNICATION', 'EVS','', '', '', 'WIRELESS AND MOBILE COMMUNICATION', 'EVS'],
     Tuesday: ['WEB SECURITY LAB GROUP-A1', 'WEB SECURITY LAB GROUP-A2', 'WEB SERVICE SECURITY', '', 'EVS', '', 'WIRELESS AND MOBILE COMMUNICATION', 'MODELLING SIMULATIONS'],
-    Wednesday: ['', 'MODELINGSIMULATION LAB GROUP-A1', 'MODELING SIMULATION LAB GROUP-A2', 'WEB SECURITY', '', 'MODELING SIMULATION', '', ''],
+    Wednesday: ['', 'MODELING SIMULATION LAB GROUP-A1', 'MODELING SIMULATION LAB GROUP-A2', 'WEB SECURITY', '', 'MODELING SIMULATION', '', ''],
     Thursday: ['', 'MODELING SIMULATION', 'WEB SECURITY', '', '', '', '', ''],
     Friday: ['', '', '', '', '', '', '', ''],
     Saturday: [],
