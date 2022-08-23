@@ -9,8 +9,8 @@ links= {
 'https://teams.microsoft.com/l/meetup-join/19%3aZG1RkBDHVSvWEGAlPYZjzG9VkHMl89Gp26tZroweP481%40thread.tacv2/1659337981502?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22fef2dc76-c80b-40ea-81a8-693df324bff5%22%7d'],
     
 
-Tuesday: ['https://teams.microsoft.com/l/meetup-join/19%3a0BozIxXTjNCnojDk4Zb3BacmdTaNnwuWHgfRmJLP8MA1%40thread.tacv2/1660018652135?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2286dd49a8-1c07-49c7-8ec3-3a0b8a85f5e1%22%7d',
- 'https://teams.microsoft.com/l/meetup-join/19%3a0BozIxXTjNCnojDk4Zb3BacmdTaNnwuWHgfRmJLP8MA1%40thread.tacv2/1660020323601?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2286dd49a8-1c07-49c7-8ec3-3a0b8a85f5e1%22%7d',
+Tuesday: ['https://teams.microsoft.com/l/meetup-join/19%3a1-n4V-ossNFTGJnPGSgqUGasp4JFv66Thh9WsBHDmus1%40thread.tacv2/1660148123626?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d',
+ 'https://teams.microsoft.com/l/meetup-join/19%3a1-n4V-ossNFTGJnPGSgqUGasp4JFv66Thh9WsBHDmus1%40thread.tacv2/1660148892205?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d',
  'https://teams.microsoft.com/l/meetup-join/19%3ayN2B0IPdaTPDx-jbVqA58wgzTq8SHqT1D0jbqOePiPI1%40thread.tacv2/1659354825324?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d',
  '',
  'https://teams.microsoft.com/l/meetup-join/19%3aZG1RkBDHVSvWEGAlPYZjzG9VkHMl89Gp26tZroweP481%40thread.tacv2/1659341514096?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22fef2dc76-c80b-40ea-81a8-693df324bff5%22%7d',
@@ -21,8 +21,8 @@ Tuesday: ['https://teams.microsoft.com/l/meetup-join/19%3a0BozIxXTjNCnojDk4Zb3Ba
     
 
 Wednesday: ['',
- 'https://teams.microsoft.com/l/meetup-join/19%3afyNMUzMLJetqXtYePnSjEgodsZgPrsZaBFf47XLU9G81%40thread.tacv2/1659289008711?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d',
- 'https://teams.microsoft.com/l/meetup-join/19%3afyNMUzMLJetqXtYePnSjEgodsZgPrsZaBFf47XLU9G81%40thread.tacv2/1659289404853?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d', 
+ 'MODELING A',
+ 'MODELING A2', 
 'https://teams.microsoft.com/l/meetup-join/19%3ayN2B0IPdaTPDx-jbVqA58wgzTq8SHqT1D0jbqOePiPI1%40thread.tacv2/1659355016760?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d',
  '',
  'https://teams.microsoft.com/l/meetup-join/19%3adTczFquD_IsfyoHq13JmbQd3Bud8dBMO8K8EqR5wYyg1%40thread.tacv2/1659433461860?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%220c2a3645-25fb-43b6-9b0d-3d1e0f235f51%22%7d',
@@ -59,8 +59,8 @@ Saturday: [],
 
 subjects = {
     'Monday': ['', 'WIRELESS AND MOBILE COMMUNICATION', 'EVS','', '', '', 'WIRELESS AND MOBILE COMMUNICATION', 'EVS'],
-    Tuesday: ['MODELLING SIMULATIONS LAB GROUP-B1', 'MODELLING SIMULATIONS LAB GROUP-B2', 'WEB SERVICE SECURITY', '', 'EVS', '', 'WIRELESS AND MOBILE COMMUNICATION', 'MODELLING SIMULATIONS'],
-    Wednesday: ['', 'WEB SERVICE SECURITY LAB GROUP-B1', 'WEB SERVICE SECURITY LAB GROUP-B2', 'WEB SECURITY', '', 'MODELING SIMULATION', '', ''],
+    Tuesday: ['WEB SECURITY LAB GROUP-A1', 'WEB SECURITY LAB GROUP-A2', 'WEB SERVICE SECURITY', '', 'EVS', '', 'WIRELESS AND MOBILE COMMUNICATION', 'MODELLING SIMULATIONS'],
+    Wednesday: ['', 'MODELINGSIMULATION LAB GROUP-A1', 'MODELING SIMULATION LAB GROUP-A2', 'WEB SECURITY', '', 'MODELING SIMULATION', '', ''],
     Thursday: ['', 'MODELING SIMULATION', 'WEB SECURITY', '', '', '', '', ''],
     Friday: ['', '', '', '', '', '', '', ''],
     Saturday: [],
