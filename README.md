@@ -1,1 +1,2 @@
-# timetablecse23a.github.io
+# amit-timetablecse.github.io
+time table
